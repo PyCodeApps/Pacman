@@ -17,7 +17,7 @@ from pygame import mixer
 mixer.init()
   
 # Loading the song
-mixer.music.load("buster_rock.mp3")
+mixer.music.load("water.mp3")
   
 # Setting the volume
 mixer.music.set_volume(0.7)
